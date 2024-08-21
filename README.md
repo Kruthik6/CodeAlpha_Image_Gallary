@@ -50,20 +50,18 @@ By this we can enter to the different folder in the gallary
     <div class="container">
         
         
-        
-        
-        <div class="rounded">
+<div class="rounded">
 
 
-        <div class="icon">
+<div class="icon">
 
-            <a href="ANIMALS.html">
+   <a href="ANIMALS.html">
                 <img src="13.png" alt="Icon 1">
                 <p>Animals</p>
             </a>
         </div>
         
-        <div class="rounded">
+<div class="rounded">
         <div class="icon">
             <a href="FLOWERS.html">
                 <img src="15.jpeg" alt="Icon 2">
@@ -71,7 +69,7 @@ By this we can enter to the different folder in the gallary
             </a>
         </div>
         
-        <div class="rounded">
+   <div class="rounded">
         <div class="icon">
             <a href="BIRDS.html">
                 <img src="14.webp" alt="Icon 3">

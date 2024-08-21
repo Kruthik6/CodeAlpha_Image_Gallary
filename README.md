@@ -55,7 +55,7 @@ By this we can enter to the different folder in the gallary
 
 <div class="icon">
 
-   <a href="ANIMALS.html">
+    <a href="ANIMALS.html">
                 <img src="13.png" alt="Icon 1">
                 <p>Animals</p>
             </a>

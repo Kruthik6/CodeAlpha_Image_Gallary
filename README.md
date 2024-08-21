@@ -53,7 +53,7 @@ By this we can enter to the different folder in the gallary
 
 <div class="icon">
 
-   <a href="ANIMALS.html">
+   <a href="ANIMALS.HTML">
                 <img src="13.png" alt="Icon 1">
                 <p>Animals</p>
             </a>
@@ -69,11 +69,9 @@ By this we can enter to the different folder in the gallary
         
    <div class="rounded">
         <div class="icon">
-            <a href="BIRDS.html">
+            <a href="BIRDS.HTML">
                 <img src="14.webp" alt="Icon 3">
                 <p>Birds</p>
             </a>
         </div>
     </div>
-</body>
-</html>
